@@ -1,5 +1,7 @@
 # Hogwarts
 
+![Image of hogwarts](assets/hogwarts.png)
+
 Hogwarts is a colorscheme based on the infamous series of Harry Potter.
 
 ![Image of snippet](assets/snippet.png)
