@@ -2,7 +2,7 @@
 
 Hogwarts is a colorscheme based on the infamous series of Harry Potter.
 
-![Image of snippet](assets/snippets.png)
+![Image of snippet](assets/snippet.png)
 
 ## Features
 - 256-colors termial support
