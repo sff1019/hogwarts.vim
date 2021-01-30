@@ -60,17 +60,17 @@ function! s:build_palette() abort
 
   " Error
   let p.inactive.airline_error = col_error
-  let p.insert.airline_error = col_error
-  let p.normal.airline_error = col_error
-  let p.replace.airline_error = col_error
-  let p.visual.airline_error = col_error
+  let p.insert.airline_error = col_insert
+  let p.normal.airline_error = col_edge
+  let p.replace.airline_error = col_replace
+  let p.visual.airline_error = col_visual
 
   " Warning
   let p.inactive.airline_warning = col_warning
-  let p.insert.airline_warning = col_warning
-  let p.normal.airline_warning = col_warning
-  let p.replace.airline_warning = col_warning
-  let p.visual.airline_warning = col_warning
+  let p.insert.airline_warning = col_insert
+  let p.normal.airline_warning = col_edge
+  let p.replace.airline_warning = col_replace
+  let p.visual.airline_warning = col_visual
 
   " Terminal
   let p.normal.airline_term = col_base
